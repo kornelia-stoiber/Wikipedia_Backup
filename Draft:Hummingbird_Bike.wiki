@@ -62,7 +62,7 @@
 |access-date=2024-10-07
 |website=GOV.UK
 |language=en
-|url-status=live}}</ref><ref>{{Cite web
+|url-status=live}}</ref> <ref>{{Cite web
 |title=World's lightest folding bike goes into production with race-car makers Prodrive
 |url=https://dezeen.com/2017/08/28/hummingbird-puts-worlds-lightest-folding-bike-into-production-prodrive-design
 |access-date=2024-10-07
@@ -92,7 +92,7 @@
 |access-date=2024-10-07
 |website=eBikeTips
 |language=en
-|url-status=live}}</ref><ref>{{Cite web
+|url-status=live}}</ref> <ref>{{Cite web
 |title=Hummingbird: 'The world's lightest – and possibly sexiest – folding electric bike'
 |url= https://theguardian.com/technology/2018/dec/23/hummingbird-electric-folding-bike-worlds-lightest-and-sexiest-review
 |access-date=2024-10-07
