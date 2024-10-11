@@ -64,7 +64,7 @@ One of their greatest competitors are [https://de.wikipedia.org/wiki/Lemonaid_Be
 |access-date=2024-10-06
 |website=CONDA Crowdinvesting
 |language=de
-|url-status=live}}</ref><ref>{{Cite web
+|url-status=live}}</ref> <ref>{{Cite web
 |title=Junge Getränkehersteller verzichten auf Plastik
 |url= https://wien.orf.at/stories/3105232/
 |access-date=2024-10-06
