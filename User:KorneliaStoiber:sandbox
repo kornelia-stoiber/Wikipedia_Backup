@@ -1,0 +1,33 @@
+{{User sandbox}}
+<!-- EDIT BELOW THIS LINE -->
+
+'''Kornelia Stoiber's Sandbox''' is a place for testing [[Wikicode]].
+
+==Text Formatting==
+
+[[Wikipedia]] offers several methods for highlighting and formatting text. The [[Wikicode]] below
+
+<syntaxhighlight lang="wikitext">
+A link to another [[Wikipedia]] page is created. Moreover, there are a ''variety of ways'' to '''highlight''' parts of to the text.
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|A link to another [[Wikipedia]] page is created. Moreover, there are a ''variety of ways'' to '''highlight''' parts of to the text.
+|}
+
+Alternatively, the highlighting can also be written in [[HTML]]. The link, however, doesn't seem to work. As a result, the [[HTML]] version
+
+<syntaxhighlight lang="html">
+<p>A link to another <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> page is created. Moreover, there are a <em>variety of ways</em> to <strong>highlight</strong> parts of to the text.</p>
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|<p>A link to another <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> page is created. Moreover, there are a <em>variety of ways</em> to <strong>highlight</strong> parts of to the text.</p>
+|}
+
+==Draft Article==
+The [https://en.wikipedia.org/wiki/Wikipedia:Article_wizard/CreateDraft Wikipedia Article Wizard] can be used to create a new [https://en.wikipedia.org/wiki/Wikipedia:Drafts draft article].
