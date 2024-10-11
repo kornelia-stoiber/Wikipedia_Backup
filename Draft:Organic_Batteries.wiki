@@ -31,7 +31,7 @@
 |access-date=2024-10-10
 |website=Elsevier B.V.
 |language=en
-|url-status=live}}</ref><ref>{{Cite web
+|url-status=live}}</ref> <ref>{{Cite web
 |title=Organic Cathodes, a Path toward Future Sustainable Batteries: Mirage or Realistic Future?
 |url=https://ncbi.nlm.nih.gov/pmc/articles/PMC10870817
 |access-date=2024-10-10
