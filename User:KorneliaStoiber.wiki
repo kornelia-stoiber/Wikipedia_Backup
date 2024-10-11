@@ -81,7 +81,7 @@
 | {{#babel:de|en-4|es-1}}
 |}
 
-See also the Wikimedia Commons user page [https://commons.m.wikimedia.org/wiki/User:KorneliaStoiber KorneliaStoiber].
+See also the [[Wikimedia Commons]] user page [https://commons.m.wikimedia.org/wiki/User:KorneliaStoiber KorneliaStoiber].
 
 {{Userpage}}
 
