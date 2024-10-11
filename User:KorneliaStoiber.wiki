@@ -1,5 +1,5 @@
 {{Infobox person
-| birth_name         = Kornelia Stoiber
+| birth_name         = [https://beacons.ai/kornelia.stoiber Kornelia Stoiber]
 | image              = File:Dew on grass Luc Viatour.jpg
 | image_size         = 
 | image_upright      = 
