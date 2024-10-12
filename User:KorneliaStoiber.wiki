@@ -81,11 +81,12 @@
 
 '''Music:''' This user's favourite performance extracts are currently from the [[Concerto in F (Gershwin)| Gershwin Concerto in F]] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [[Yuja Wang]] and [[Michael Tilson Thomas]] together with the [[London Symphony Orchestra]].
 
-See also the [[Wikimedia Commons]] user page [https://commons.m.wikimedia.org/wiki/User:KorneliaStoiber KorneliaStoiber].
+See also the [[Wikimedia Commons]] user page [https://commons.m.wikimedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
 
+{{clear}}
 {{Userpage}}
 
-== Links ==
+== Social media ==
 [https://www.beacons.ai/kornelia.stoiber Homepage]
 •
 [https://www.facebook.com/kornelia.stoiber Facebook]
@@ -118,3 +119,10 @@ See also the [[Wikimedia Commons]] user page [https://commons.m.wikimedia.org/wi
 
 == References ==
 {{Reflist}}
+
+== External links ==
+{{wikiquote|User:KorneliaStoiber}}
+{{commons|User:KorneliaStoiber}}
+
+*{{Wikiquote-inline|User:KorneliaStoiber}}
+*{{Commons-inline|User:KorneliaStoiber}}
