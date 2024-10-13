@@ -36,7 +36,8 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
  | label12 = Edit count | data12 = 430+
  | header13 = Userboxes
  | label14 = | data14 = {{User Wikipedian for|year=2024|month=10|day=05}}
-{{User EditsPlus|430}}
+<!--{{User EditsPlus|430}}-->
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=430 |info=This user has made over '''430''' edits.}}
 {{Collapse top|Further Information}}
 {{User Custom Articles Started|6}}
 {{User Engineer}}
