@@ -19,40 +19,30 @@
 *[https://x.com/KorneliaStoiber X.com]
 }}
 
-{{Infobox user
-| role                = [[Wikipedian]]
-| gender              = Female
-| pronoun             = [[she/her]]
-| image               = File:IBM Q system (Fraunhofer 2).jpg
-| image_caption       = This user is a [[computer scientist]]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [https://en.wikipedia.org/wiki/IBM_Research IBM Research])
-| image_width         = 
-| location            = [[Vienna]]
-| country             = Austria
-| languages           = [[English]], [[German]], [[Spanish]]
-| timezone            = 
-[[UTC+01:00 | CET (UTC+01:00)]],<br>
-[[UTC+02:00 | CEST (UTC+02:00)]]
-| current_time        = 
-[[Winter]]: {{time|UTC+01:00|df=24}}<br>
+{{Infobox
+ | header1 = '''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal">— [[Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
+ | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[computer scientist]]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [[IBM Research]])
+ | label3 = Pronouns | data3 = [[she/her]]
+ | label4 = Country | data4 = {{flag|Austria}}
+ | label5 = Current&nbsp;location | data5 = [[Vienna]]
+ | label6 = Languages | data6 = [[English]], [[German]], [[Spanish]]
+ | label7 = Time zone | data7 = [[UTC%2B01:00|CET (UTC+01:00)]],<br>[[UTC%2B02:00|CEST (UTC+02:00)]]
+ | label8 = 
+Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 [[Summer]]: {{time|UTC+02:00|df=24}}
-| userboxes           =
-
-{{User Wikipedian for|year=2024|month=10|day=05}}
-{{User Custom Articles Started|6}}
-{{User EditsPlus|375}}
-
+ | header9 = Account statistics
+ | label10 = Article count | data10 = 6+
+ | label11 = Quote count | data11 = 1+
+ | label12 = Edit count | data12 = 420+
+ | header13 = Userboxes
+ | label14 = | data14 = {{User Wikipedian for|year=2024|month=10|day=05}}
+{{User EditsPlus|420}}
 {{Collapse top|Further Information}}
+{{User Custom Articles Started|6}}
 {{User Engineer}}
 {{User Austria}}
 {{User wikipedia/Autoconfirmed}}
 {{Collapse bottom}}
-
-<!--{{User Wikipedia/Extended confirmed}}-->
-<!--{{User contrib|250}}-->
-<!--{{User:Liance/UBX/XEditCount|250}}-->
-<!--{{User active edits|>250}}-->
-<!--{{User wikipedianumedits|250}}-->
-
 }}
 
 '''Kornelia Stoiber''' is a [[computer scientist]] from [[Austria]] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [[design]] and playing the [[clarinet]].<ref>{{Cite web
@@ -68,7 +58,7 @@
 [[Draft:Organic Batteries]] and 
 [[Draft:Stalking Safety]].
 
-{|style="margin-bottom: 1em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[[Special:MyLanguage/User language|Babel]]</big>'''
 |-
@@ -81,7 +71,7 @@
 
 '''Music:''' This user's favourite performance extracts are currently from the [[Concerto in F (Gershwin)| Gershwin Concerto in F]] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [[Yuja Wang]] and [[Michael Tilson Thomas]] together with the [[London Symphony Orchestra]].
 
-See also the [[Wikimedia Commons]] user page [https://commons.m.wikimedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
+See also the [[Wikiquote]] user page [https://en.wikiquote.org/wiki/User:KorneliaStoiber User:KorneliaStoiber] and the [[Wikimedia Commons]] user page [https://commons.wikimedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
 
 {{clear}}
 {{Userpage}}
