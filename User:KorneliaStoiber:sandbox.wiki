@@ -1,6 +1,9 @@
 {{User sandbox}}
 <!-- EDIT BELOW THIS LINE -->
 
+{{#vardefine:edit_count|430}}
+{{#var:edit_count}}
+
 '''Kornelia Stoiber's Sandbox''' is a place for testing [[Wikicode]].
 
 ==Text Formatting==
