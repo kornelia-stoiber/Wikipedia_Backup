@@ -3,7 +3,7 @@
 | image              = File:Dew on grass Luc Viatour.jpg
 | image_size         = 
 | image_upright      = 
-| alt                = From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)
+| alt                = From the description: Macro shot of dew on grass. (https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)
 | caption            = This user believes in [[organic products]] and [[green technology]]. (Image: "[https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg dew on grass]" by [https://commons.wikimedia.org/wiki/User:Lviatour Luc Viatour])
 | occupation         = [[Computer Scientist]]
 | nationality        = [[Austrian]]
@@ -33,10 +33,10 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
  | header9 = Account statistics
  | label10 = Article count | data10 = 6+
  | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 420+
+ | label12 = Edit count | data12 = 430+
  | header13 = Userboxes
  | label14 = | data14 = {{User Wikipedian for|year=2024|month=10|day=05}}
-{{User EditsPlus|420}}
+{{User EditsPlus|430}}
 {{Collapse top|Further Information}}
 {{User Custom Articles Started|6}}
 {{User Engineer}}
@@ -58,11 +58,29 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 [[Draft:Organic Batteries]] and 
 [[Draft:Stalking Safety]].
 
+<!--{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+|-
+| '''<big>[[Special:MyLanguage/User language|Babel]]</big>'''
+|-
+| {{#babel:de|en-5|es-1}}
+|}
+-->
 {|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[[Special:MyLanguage/User language|Babel]]</big>'''
 |-
-| {{#babel:de|en-4|es-1}}
+|
+
+{|style="margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
+|-
+| '''[[Wikipedia:Babel|Babel user information]]'''
+|-
+| {{Userbox |border-c=#93F4AD |border-s=1 |id-c=#93F4AD |id-s=12 |id-fc=#000 |info-c=#CFFADE |info-s=8 |info-fc=#000 |id=de-N |info=Diese Benutzerin spricht [https://en.wikipedia.org/wiki/Category:User_de Deutsch] als [https://en.wikipedia.org/wiki/Category:User_de-N Muttersprache].}}<br>{{Userbox |border-c=#91DDE5 |border-s=1 |id-c=#91DDE5 |id-s=12 |id-fc=#000 |info-c=#D8F6FE |info-s=8 |info-fc=#000 |id=en-5 | info=This user has [https://en.wikipedia.org/wiki/Category:User_en-5 professional] knowledge of [https://en.wikipedia.org/wiki/Category:User_en English].}}<br>{{Userbox |border-c=#DAC2DD |border-s=1 |id-c=#DAC2DD |id-s=12 |id-fc=#000 |info-c=#EEE0F1 |info-s=8 |info-fc=#000 |id=es-1 |info=Esta usuaria tiene un conocimiento [https://en.wikipedia.org/wiki/Category:User_es-1 básico] del [https://en.wikipedia.org/wiki/Category:User_es español].}}
+|-
+| <small>[https://en.wikipedia.org/wiki/Category:Wikipedians_by_language Users by language]</small>
+|-
+|}
+
 |}
 
 '''Books:''' This user is currently looking forward to the publication of the book [[Patriot (book)|"Patriot: A Memoir"]] by [[Alexei Navalny]].
