@@ -32,5 +32,210 @@ results in:
 |<p>A link to another <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> page is created. Moreover, there are a <em>variety of ways</em> to <strong>highlight</strong> parts of to the text.</p>
 |}
 
+==Code Formatting==
+
+Some examples.
+
+=== Example 1 ===
+
+<syntaxhighlight lang="wikitext">
+{{tlc
+    | paid
+    | 2 = user=KorneliaStoiber
+    | 3 = employer=<var>InsertName</var>
+    | 4 = client=<var>InsertName</var>
+}}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|{{tlc
+    | paid
+    | 2 = user=KorneliaStoiber
+    | 3 = employer=<var>InsertName</var>
+    | 4 = client=<var>InsertName</var>
+}}
+|}
+
+and
+
+<syntaxhighlight lang="wikitext" style="word-wrap: break-word">
+{{paid|user=KorneliaStoiber|employer=InsertName|client=InsertName}}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|{{paid|user=KorneliaStoiber|employer=InsertName|client=InsertName}}
+|}
+
+=== Example 2 ===
+
+<syntaxhighlight lang="wikitext">
+{{tlc
+    | paid
+    | 2 = user = KorneliaStoiber
+    | 3 = employer = <var>InsertName</var>
+    | 4 = client = <var>InsertName</var>
+}}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|{{tlc
+    | paid
+    | 2 = user = KorneliaStoiber
+    | 3 = employer = <var>InsertName</var>
+    | 4 = client = <var>InsertName</var>
+}}
+|}
+
+and
+
+<syntaxhighlight lang="wikitext">
+{{paid|user = KorneliaStoiber|employer = InsertName|client = InsertName}}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|{{paid|user = KorneliaStoiber|employer = InsertName|client = InsertName}}
+|}
+
+=== Example 3 ===
+
+<source lang="wikitext">
+<syntaxhighlight lang="wikitext">
+{{paid
+    | user = KorneliaStoiber
+    | employer = InsertName
+    | client = InsertName
+}}
+</syntaxhighlight>
+</source>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|<syntaxhighlight lang="wikitext">
+{{paid
+    | user = KorneliaStoiber
+    | employer = InsertName
+    | client = InsertName
+}}
+</syntaxhighlight>
+|}
+
+and
+
+<syntaxhighlight lang="wikitext">
+{{paid
+    | user = KorneliaStoiber
+    | employer = InsertName
+    | client = InsertName
+}}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+| {{paid
+    | user = KorneliaStoiber
+    | employer = InsertName
+    | client = InsertName
+}}
+|}
+
+=== Example 4 ===
+
+<syntaxhighlight lang="wikitext">
+{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+|}
+
+=== Example 5 ===
+
+<syntaxhighlight lang="wikitext">
+{{tlc|nowrap=on|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|{{tlc|nowrap=on|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+|}
+
+=== Example 6 ===
+
+<syntaxhighlight lang="wikitext">
+<div>
+{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</div>
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|<div>
+{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</div>
+|}
+
+=== Example 7 ===
+
+<syntaxhighlight lang="wikitext">
+<div style="white-space: initial;">
+{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</div>
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|<div style="white-space: initial;">
+{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</div>
+|}
+
+=== Example 8 ===
+
+<syntaxhighlight lang="wikitext">
+<div style="word-wrap: break-word;">
+{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</div>
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|<div style="word-wrap: break-word;">
+{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+</div>
+|}
+
+=== Example 9 ===
+
+<syntaxhighlight lang="wikitext">
+{| class="wikitable"
+|{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+|}
+</syntaxhighlight>
+
+results in:
+
+{| style="border: #99B3FF solid 1px; text-align: left; padding: 1em"
+|
+{| class="wikitable" width="242px"
+|{{tlc|long template name that would wrap to new line|long value for the 1st parameter that would wrap}}
+|}
+|}
+
 ==Draft Article==
 The [https://en.wikipedia.org/wiki/Wikipedia:Article_wizard/CreateDraft Wikipedia Article Wizard] can be used to create a new [https://en.wikipedia.org/wiki/Wikipedia:Drafts draft article].
