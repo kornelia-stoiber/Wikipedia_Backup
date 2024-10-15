@@ -6,7 +6,7 @@
 
 '''Kornelia Stoiber's Sandbox''' is a place for testing [[Wikicode]].
 
-==Text Formatting==
+==Text formatting==
 
 [[Wikipedia]] offers several methods for highlighting and formatting text. The [[Wikicode]] below
 
@@ -32,7 +32,7 @@ results in:
 |<p>A link to another <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> page is created. Moreover, there are a <em>variety of ways</em> to <strong>highlight</strong> parts of to the text.</p>
 |}
 
-==Code Formatting==
+==Code formatting==
 
 Some examples.
 
@@ -237,5 +237,16 @@ results in:
 |}
 |}
 
-==Draft Article==
+== User page ==
+{{Userpage|border-s=1|border-c=#91DDE5|background=#D8F6FE}}
+
+{{Userpage|border-s=1|border-c=#5acbd8|background=#e3f6f8}}
+
+{{Userpage|border-s=1|border-c=#38d0fa|background=#def7fe}}
+
+{{Userpage|border-s=1|border-c=#a3b9bf|background=#f5fdff}}
+
+{{Userpage|border-s=1|border-c=#a3bcbf|background=#f5feff}}
+
+==Draft article==
 The [https://en.wikipedia.org/wiki/Wikipedia:Article_wizard/CreateDraft Wikipedia Article Wizard] can be used to create a new [https://en.wikipedia.org/wiki/Wikipedia:Drafts draft article].
