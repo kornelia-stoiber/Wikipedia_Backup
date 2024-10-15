@@ -33,15 +33,24 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
  | header9 = Account statistics
  | label10 = Article count | data10 = 6+
  | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 470+
+ | label12 = Edit count | data12 = 475+
  | header13 = Userboxes
- | label14 = | data14 = {{User Wikipedian for|year=2024|month=10|day=05}}
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=470 |info=This user has made over '''470''' edits.}}
-{{Collapse top|Further Information}}
-{{User Custom Articles Started|6}}
-{{User Engineer}}
-{{User Austria}}
-{{User wikipedia/Autoconfirmed}}
+ | label14 = | data14 =
+
+{{Userbox |border-c=#af7cb6 |border-s=1 |id-c=#e4d3e7 |id-s=14 |id-fc=#000 |info-c=#f2e9f3 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''{{age in days|2024|10|5}} days'''.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:What_is_an_article|articles]].}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=475 |info=This user has made over '''475''' edits.}}
+
+{{Collapse top|Further Information|bg=#c1f9d0}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Engineer|engineer]]'''.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
+
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
+
 {{Collapse bottom}}
 }}
 
