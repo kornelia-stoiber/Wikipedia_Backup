@@ -38,7 +38,7 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 530+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 535+
 |-
 | style="text-align: left; vertical-align: top;" | '''Wikipedian'''
 || {{Age in years, months and days|year=2024|month=10|day=5}}
