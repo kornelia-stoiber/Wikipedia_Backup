@@ -4,14 +4,14 @@
 | image_size         = 
 | image_upright      = 
 | alt                = From the description: Macro shot of dew on grass. (https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)
-| caption            = This user believes in [[organic products]] and [[green technology]]. (Image: "[https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg dew on grass]" by [https://commons.wikimedia.org/wiki/User:Lviatour Luc Viatour])
+| caption            = This user believes in [[organic products]] and [[green technology]]. (Image: "[[Commons:File:Dew_on_grass_Luc_Viatour.jpg|dew on grass]]" by [[Commons:User:Lviatour|Luc&nbsp;Viatour]])
 | occupation         = [[Computer Scientist]]
 | nationality        = [[Austrian]]
 | education          =
 *[[University College London]]
 *[[University of Hertfordshire]]
 *[[Aalborg University]]
-*[https://de.m.wikipedia.org/wiki/FH_Ober%C3%B6sterreich University of Applied Sciences Upper Austria]
+*[[:de:FH_Ober%C3%B6sterreich|University of Applied Sciences Upper Austria]]
 | awards             = [https://ocg.at/fp-fh National IT Incentive Award Winner]
 | website            =
 *[https://beacons.ai/kornelia.stoiber Homepage]
@@ -20,8 +20,10 @@
 }}
 
 {{Infobox
+ | labelstyle = text-align: left; vertical-align: top
+ | headerstyle = text-align: center
  | header1 = '''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal">— [[Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
- | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[computer scientist]]. (Image: "[https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg IBM Quantum System One in Ehningen, Germany.]" by [[IBM Research]])
+ | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[IBM_Research|IBM&nbsp;Research]])
  | label3 = Pronouns | data3 = [[she/her]]
  | label4 = Country | data4 = {{flag|Austria}}
  | label5 = Current&nbsp;location | data5 = [[Vienna]]
@@ -33,7 +35,7 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
  | header9 = Account statistics
  | label10 = Article count | data10 = 6+
  | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 490+
+ | label12 = Edit count | data12 = 505+
  | header13 = Userboxes
  | label14 = | data14 =
 
@@ -41,7 +43,7 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 
 {{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:What_is_an_article|articles]].}}
 
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=490 |info=This user has made over '''490''' edits.}}
+{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=505 |info=This user has made over '''505''' edits.}}
 
 {{Collapse top|Further Information|bg=#c1f9d0}}
 
@@ -98,10 +100,12 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 
 '''Music:''' This user's favourite performance extracts are currently from the [[Concerto in F (Gershwin)| Gershwin Concerto in F]] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [[Yuja Wang]] and [[Michael Tilson Thomas]] together with the [[London Symphony Orchestra]].
 
-See also the [[Wikiquote]] user page [https://en.wikiquote.org/wiki/User:KorneliaStoiber User:KorneliaStoiber] and the [[Wikimedia Commons]] user page [https://commons.wikimedia.org/wiki/User:KorneliaStoiber User:KorneliaStoiber].
+See also the [[Wikiquote]] user page [[Wikiquote:User:KorneliaStoiber|User:KorneliaStoiber]] and the [[Wikimedia Commons]] user page [[Commons:User:KorneliaStoiber|User:KorneliaStoiber]].
 
 {{clear}}
-{{Userpage|border-s=1|border-c=#a3bcbf|background=#f5feff}}
+{|style="margin-bottom: 0.5em; border: #a3bcbf solid 1px; background: #f5feff; text-align: center"
+|<small>'''This is a Wikipedia [[Wikipedia:User_pages|user page]].'''<br>This is not an encyclopedia article or the talk page for an encyclopedia article. If you find this page on any site other than Wikipedia, you are viewing a [[Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated and that the user whom this page is about may have no personal affiliation with any site other than Wikipedia. The original page is located at [[User:KorneliaStoiber#top|https://en.wikipedia.org/wiki/User:KorneliaStoiber]].</small>
+|}
 
 == Social media ==
 [https://www.beacons.ai/kornelia.stoiber Homepage]
