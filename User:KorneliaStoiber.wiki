@@ -1,4 +1,4 @@
-{| style="width: 310px; padding: 0.3em; float: right; margin-left: 1em; margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: left; vertical-align: top; font-size: 10.5pt;"
+ {| style="width: 310px; padding: 0.3em; float: right; margin-left: 1em; margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: left; vertical-align: top; font-size: 10.5pt;"
 |-
 | style="text-align: center; vertical-align: center;" colspan=2|'''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal;">— [[Wikipedian|Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
 |-
@@ -14,7 +14,7 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Time zone''' || [[UTC%2B01:00|CET (UTC+01:00)]],<br>[[UTC%2B02:00|CEST (UTC+02:00)]]
 |-
-| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}}<br><span style="white-space:nowrap;">[[UTC%2B01:00|UTC+01:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span><br>[[Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}}<br><span style="white-space:nowrap;">[[UTC%2B02:00|UTC+02:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span>
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}}<br><span style="white-space:nowrap;">[[UTC%2B01:00|UTC+01:00]] <small>[[https://en.wikipedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span><br>[[Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}}<br><span style="white-space:nowrap;">[[UTC%2B02:00|UTC+02:00]] <small>[[https://en.wikipedia.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span>
 |-
 | style="text-align: center; vertical-align: center;" colspan=2| '''Professional details'''
 |-
