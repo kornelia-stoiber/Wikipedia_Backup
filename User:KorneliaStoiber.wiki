@@ -25,7 +25,7 @@
  | header1 = '''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal">— [[Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
  | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[IBM_Research|IBM&nbsp;Research]])
  | label3 = Pronouns | data3 = [[she/her]]
- | label4 = Country | data4 = {{flag|Austria}}
+ | label4 = Country | data4 = <!--{{flag|Austria}}-->[[Austria]]
  | label5 = Current&nbsp;location | data5 = [[Vienna]]
  | label6 = Languages | data6 = [[English]], [[German]], [[Spanish]]
  | label7 = Time zone | data7 = [[UTC%2B01:00|CET (UTC+01:00)]],<br>[[UTC%2B02:00|CEST (UTC+02:00)]]
@@ -35,8 +35,9 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
  | header9 = Account statistics
  | label10 = Article count | data10 = 6+
  | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 505+
- | header13 = Userboxes
+ | label12 = Edit count | data12 = 520+
+ | label13 = | data13 = This user has been on [[Wikipedia]] for '''{{age in days|2024|10|5}} days'''.
+<!-- | header13 = Userboxes
  | label14 = | data14 =
 
 {{Userbox |border-c=#af7cb6 |border-s=1 |id-c=#e4d3e7 |id-s=14 |id-fc=#000 |info-c=#f2e9f3 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''{{age in days|2024|10|5}} days'''.}}
@@ -53,7 +54,7 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 
 {{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
 
-{{Collapse bottom}}
+{{Collapse bottom}}-->
 }}
 
 '''Kornelia Stoiber''' is a [[computer scientist]] from [[Austria]] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [[design]] and playing the [[clarinet]].<ref>{{Cite web
@@ -76,7 +77,7 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 | {{#babel:de|en-5|es-1}}
 |}
 -->
-{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
+<!--{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
 |-
 | '''<big>[[Special:MyLanguage/User language|Babel]]</big>'''
 |-
@@ -93,21 +94,15 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 |}
 
 |}
-
+-->
 '''Books:''' This user is currently looking forward to the publication of the book [[Patriot (book)|"Patriot: A Memoir"]] by [[Alexei Navalny]].
 
 '''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [[IBM Research]].
 
 '''Music:''' This user's favourite performance extracts are currently from the [[Concerto in F (Gershwin)| Gershwin Concerto in F]] [https://facebook.com/share/v/kHrnenbcALnmJwmb on Facebook] and [https://instagram.com/p/CXwNSXosiF_ on Instagram], performed by [[Yuja Wang]] and [[Michael Tilson Thomas]] together with the [[London Symphony Orchestra]].
 
+'''Infos:'''
 More information is available on the [[Wikiquote]] user page [[Wikiquote:User:KorneliaStoiber|User:KorneliaStoiber]] and on the [[Wikimedia Commons]] user page [[Commons:User:KorneliaStoiber|User:KorneliaStoiber]].
-
-{{clear}}
-{|style="margin-bottom: 0.5em; border: #a3bcbf solid 1px; background: #f5feff; text-align: center"
-|<small>'''This is a Wikipedia [[Wikipedia:User_pages|user page]].'''</small>
-|-
-|<small>This is not an encyclopedia article or the talk page for an encyclopedia article. If you find this page on any site other than Wikipedia, you are viewing a [[Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated and that the user whom this page is about may have no personal affiliation with any site other than Wikipedia. The original page is located at [[User:KorneliaStoiber#top|https://en.wikipedia.org/wiki/User:KorneliaStoiber]].</small>
-|}
 
 == Social media ==
 [https://www.beacons.ai/kornelia.stoiber Homepage]
@@ -153,6 +148,13 @@ More information is available on the [[Wikiquote]] user page [[Wikiquote:User:Ko
 == External links ==
 {{wikiquote|User:KorneliaStoiber}}
 {{commons|User:KorneliaStoiber}}
-
 *{{Wikiquote-inline|User:KorneliaStoiber}}
 *{{Commons-inline|User:KorneliaStoiber}}
+
+== User page ==
+{{clear}}
+{|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
+|<small>'''This is a Wikipedia [[Wikipedia:User_pages|user page]].'''</small>
+|-
+|<small>This is not an encyclopedia article or the talk page for an encyclopedia article. If you find this page on any site other than Wikipedia, you are viewing a [[Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated and that the user whom this page is about may have no personal affiliation with any site other than Wikipedia. The original page is located at [[User:KorneliaStoiber#top|https://en.wikipedia.org/wiki/User:KorneliaStoiber]].</small>
+|}
