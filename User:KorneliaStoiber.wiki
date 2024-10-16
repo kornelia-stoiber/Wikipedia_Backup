@@ -104,7 +104,9 @@ See also the [[Wikiquote]] user page [[Wikiquote:User:KorneliaStoiber|User:Korne
 
 {{clear}}
 {|style="margin-bottom: 0.5em; border: #a3bcbf solid 1px; background: #f5feff; text-align: center"
-|<small>'''This is a Wikipedia [[Wikipedia:User_pages|user page]].'''<br>This is not an encyclopedia article or the talk page for an encyclopedia article. If you find this page on any site other than Wikipedia, you are viewing a [[Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated and that the user whom this page is about may have no personal affiliation with any site other than Wikipedia. The original page is located at [[User:KorneliaStoiber#top|https://en.wikipedia.org/wiki/User:KorneliaStoiber]].</small>
+|<small>'''This is a Wikipedia [[Wikipedia:User_pages|user page]].'''</small>
+|-
+|<small>This is not an encyclopedia article or the talk page for an encyclopedia article. If you find this page on any site other than Wikipedia, you are viewing a [[Wikipedia:Mirrors_and_forks|mirror site]]. Be aware that the page may be outdated and that the user whom this page is about may have no personal affiliation with any site other than Wikipedia. The original page is located at [[User:KorneliaStoiber#top|https://en.wikipedia.org/wiki/User:KorneliaStoiber]].</small>
 |}
 
 == Social media ==
