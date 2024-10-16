@@ -1,10 +1,9 @@
 {{User sandbox}}
 <!-- EDIT BELOW THIS LINE -->
 
-{{#vardefine:edit_count|430}}
-{{#var:edit_count}}
+'''Kornelia Stoiber's [[Wikipedia:About_the_sandbox|user sandbox]]''' is a place for testing [[Wikicode]].
 
-'''Kornelia Stoiber's Sandbox''' is a place for testing [[Wikicode]].
+{{clear}}
 
 ==Text formatting==
 
