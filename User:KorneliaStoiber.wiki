@@ -1,61 +1,59 @@
-{{Infobox person
-| birth_name         = [https://beacons.ai/kornelia.stoiber Kornelia Stoiber]
-| image              = File:Dew on grass Luc Viatour.jpg
-| image_size         = 
-| image_upright      = 
-| alt                = From the description: Macro shot of dew on grass. (https://commons.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)
-| caption            = This user believes in [[organic products]] and [[green technology]]. (Image: "[[Commons:File:Dew_on_grass_Luc_Viatour.jpg|dew on grass]]" by [[Commons:User:Lviatour|Luc&nbsp;Viatour]])
-| occupation         = [[Computer Scientist]]
-| nationality        = [[Austrian]]
-| education          =
-*[[University College London]]
-*[[University of Hertfordshire]]
-*[[Aalborg University]]
+{| style="width: 310px; padding: 0.3em; float: right; margin-left: 1em; margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: left; vertical-align: top; font-size: 10.5pt;"
+|-
+| style="text-align: center; vertical-align: center;" colspan=2|'''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal;">— [[Wikipedian|Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
+|-
+|style="text-align: center; vertical-align: center;" colspan=2 | [[File:Dew on grass Luc Viatour.jpg |frameless|alt=From the description: Macro shot of dew on grass. (https://commons.m.wikimedia.org/wiki/File:Dew_on_grass_Luc_Viatour.jpg)]]<br>This user believes in [[Organic_products|organic products]] and [[Green_technology|green technology]]. (Image: "[[Commons:File:Dew_on_grass_Luc_Viatour.jpg|dew on grass]]" by [[Commons:User:Lviatour|Luc&nbsp;Viatour]])
+|-
+| style="text-align: left; vertical-align: top;" | '''Born''' || [https://beacons.ai/kornelia.stoiber Kornelia Stoiber]
+|-
+| style="text-align: left; vertical-align: top;" | '''Pronouns''' || [[She/her|she/her]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Nationality''' || [[Austrian|Austrian]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;location''' ||  [[Vienna|Vienna]], [[Austria|Austria]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Time zone''' || [[UTC%2B01:00|CET (UTC+01:00)]],<br>[[UTC%2B02:00|CEST (UTC+02:00)]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Current&nbsp;time''' || [[Winter|Winter]]: {{#time:H:i|{{CURRENTTIME}} + 1 hours}}<br><span style="white-space:nowrap;">[[UTC%2B01:00|UTC+01:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span><br>[[Summer|Summer]]: {{#time:H:i|{{CURRENTTIME}} + 2 hours}}<br><span style="white-space:nowrap;">[[UTC%2B02:00|UTC+02:00]] <small>[[https://en.wikiquote.org/w/index.php?title=User:KorneliaStoiber&action=purge refresh]]</small></span>
+|-
+| style="text-align: center; vertical-align: center;" colspan=2| '''Professional details'''
+|-
+| style="text-align: center; vertical-align: center;" colspan=2 | [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[Computer_Scientist|computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[IBM_Research|IBM&nbsp;Research]])
+|-
+| style="text-align: left; vertical-align: top;" | '''Education''' ||
+*[[University_College_London|University College London]]
+*[[University_of_Hertfordshire|University of Hertfordshire]]
+*[[Aalborg_University|Aalborg University]]
 *[[:de:FH_Ober%C3%B6sterreich|University of Applied Sciences Upper Austria]]
-| awards             = [https://ocg.at/fp-fh National IT Incentive Award Winner]
-| website            =
-*[https://beacons.ai/kornelia.stoiber Homepage]
+|-
+| style="text-align: left; vertical-align: top;" | '''Occupation''' || [[Computer_scientist|Computer Scientist]]
+|-
+| style="text-align: left; vertical-align: top;" | '''Awards''' || [https://ocg.at/fp-fh National IT Incentive Award Winner]
+|-
+| style="text-align: left; vertical-align: top;" | '''Languages''' || [[English|English]], [[German|German]], [[Spanish|Spanish]]
+|-
+| style="text-align: center; vertical-align: center;" colspan=2 | '''Account statistics'''
+|-
+| style="text-align: left; vertical-align: top;" | '''Article&nbsp;count''' || 6+
+|-
+| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
+|-
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 530+
+|-
+| style="text-align: left; vertical-align: top;" | '''Wikipedian'''
+|| {{Age in years, months and days|year=2024|month=10|day=5}}
+|-
+| style="text-align: left; vertical-align: top;" | '''User&nbsp;rights''' 
+|| [[Wikipedia:AUTOCONFIRMED|autoconfirmed]] <small>[[https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small>
+|-
+| style="text-align: center; vertical-align: center;" colspan=2| '''Contact details'''
+|-
+| style="text-align: left; vertical-align: top;" | '''Social&nbsp;media''' ||
 *[https://facebook.com/kornelia.stoiber Facebook]
 *[https://x.com/KorneliaStoiber X.com]
-}}
-
-{{Infobox
- | labelstyle = text-align: left; vertical-align: top
- | headerstyle = text-align: center
- | header1 = '''<big>KorneliaStoiber</big>'''<br><span style="font-weight: normal">— [[Wikipedian]] <u style="border-bottom: 1px dotted #000; text-decoration: none;">♀</u> —</span>
- | label2 = | data2 = [[File:IBM Q system (Fraunhofer 2).jpg|frameless|alt=From the description: "IBM Quantum System One in Ehningen, Germany." (https://commons.m.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)]]<br>This user is a [[computer scientist]]. (Image: "[[Commons:File:IBM_Q_system_(Fraunhofer_2).jpg|IBM Quantum System One in Ehningen, Germany.]]" by [[IBM_Research|IBM&nbsp;Research]])
- | label3 = Pronouns | data3 = [[she/her]]
- | label4 = Country | data4 = <!--{{flag|Austria}}-->[[Austria]]
- | label5 = Current&nbsp;location | data5 = [[Vienna]]
- | label6 = Languages | data6 = [[English]], [[German]], [[Spanish]]
- | label7 = Time zone | data7 = [[UTC%2B01:00|CET (UTC+01:00)]],<br>[[UTC%2B02:00|CEST (UTC+02:00)]]
- | label8 = 
-Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
-[[Summer]]: {{time|UTC+02:00|df=24}}
- | header9 = Account statistics
- | label10 = Article count | data10 = 6+
- | label11 = Quote count | data11 = 1+
- | label12 = Edit count | data12 = 520+
- | label13 = | data13 = This user has been on [[Wikipedia]] for '''{{age in days|2024|10|5}} days'''.
-<!-- | header13 = Userboxes
- | label14 = | data14 =
-
-{{Userbox |border-c=#af7cb6 |border-s=1 |id-c=#e4d3e7 |id-s=14 |id-fc=#000 |info-c=#f2e9f3 |info-s=8 |info-fc=#000 |id=[[File:Noia_64_apps_karm.svg|45px]] |info= This user has been on Wikipedia for '''{{age in days|2024|10|5}} days'''.}}
-
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=6 |info=This user has '''started at least 6''' [[Wikipedia:English_Wikipedia|English Wikipedia]] [[Wikipedia:What_is_an_article|articles]].}}
-
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=505 |info=This user has made over '''505''' edits.}}
-
-{{Collapse top|Further Information|bg=#c1f9d0}}
-
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Nuvola_apps_kcmsystem.svg|45px]] |info=This user is an '''[[Engineer|engineer]]'''.}}
-
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[file:Flag_Austria_template.svg|45px]] |info=This user comes from '''[[Wikipedia:Austria|Austria]]'''.}}
-
-{{Userbox |border-c=#999999 |border-s=1 |id-c=#DDDDDD |id-s=14 |id-fc=#000 |info-c=#EEEEEE |info-s=8 |info-fc=#000 |id=[[File:Wikipedia_Autoconfirmed.svg|45px]] |info=This user has '''[[Wikipedia:AUTOCONFIRMED|autoconfirmed]]''' rights on the [[Wikipedia:English_Wikipedia|English Wikipedia]]. <small>([https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify])</small>}}
-
-{{Collapse bottom}}-->
-}}
+|-
+| style="text-align: left; vertical-align: top;" | '''Website''' || [https://beacons.ai/kornelia.stoiber Homepage]
+|}
 
 '''Kornelia Stoiber''' is a [[computer scientist]] from [[Austria]] who studied at a variety of universities and won a [https://ocg.at/fp-fh national IT incentive award]. In addition, she took courses in [[design]] and playing the [[clarinet]].<ref>{{Cite web
 |title=Kornelia Stoiber on Beacons
@@ -70,31 +68,6 @@ Current&nbsp;time | data8 = [[Winter]]: {{time|UTC+01:00|df=24}}<br>
 [[Draft:Organic Batteries]] and 
 [[Draft:Stalking Safety]].
 
-<!--{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
-|-
-| '''<big>[[Special:MyLanguage/User language|Babel]]</big>'''
-|-
-| {{#babel:de|en-5|es-1}}
-|}
--->
-<!--{|style="margin-bottom: 0.5em; padding:0.3em; border: #99B3FF solid 1px; background: #F9F9F9; text-align: center"
-|-
-| '''<big>[[Special:MyLanguage/User language|Babel]]</big>'''
-|-
-|
-
-{|style="margin-bottom: 0.5em; border: #99B3FF solid 1px; background: #FFF; text-align: center"
-|-
-| '''[[Wikipedia:Babel|Babel user information]]'''
-|-
-| {{Userbox |border-c=#93F4AD |border-s=1 |id-c=#93F4AD |id-s=12 |id-fc=#000 |info-c=#CFFADE |info-s=8 |info-fc=#000 |id=de-N |info=Diese Benutzerin spricht [https://en.wikipedia.org/wiki/Category:User_de Deutsch] als [https://en.wikipedia.org/wiki/Category:User_de-N Muttersprache].}}<br>{{Userbox |border-c=#91DDE5 |border-s=1 |id-c=#91DDE5 |id-s=12 |id-fc=#000 |info-c=#D8F6FE |info-s=8 |info-fc=#000 |id=en-5 | info=This user has [https://en.wikipedia.org/wiki/Category:User_en-5 professional] knowledge of [https://en.wikipedia.org/wiki/Category:User_en English].}}<br>{{Userbox |border-c=#DAC2DD |border-s=1 |id-c=#DAC2DD |id-s=12 |id-fc=#000 |info-c=#EEE0F1 |info-s=8 |info-fc=#000 |id=es-1 |info=Esta usuaria tiene un conocimiento [https://en.wikipedia.org/wiki/Category:User_es-1 básico] del [https://en.wikipedia.org/wiki/Category:User_es español].}}
-|-
-| <small>[https://en.wikipedia.org/wiki/Category:Wikipedians_by_language Users by language]</small>
-|-
-|}
-
-|}
--->
 '''Books:''' This user is currently looking forward to the publication of the book [[Patriot (book)|"Patriot: A Memoir"]] by [[Alexei Navalny]].
 
 '''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [[IBM Research]].
@@ -150,9 +123,9 @@ More information is available on the [[Wikiquote]] user page [[Wikiquote:User:Ko
 {{commons|User:KorneliaStoiber}}
 *{{Wikiquote-inline|User:KorneliaStoiber}}
 *{{Commons-inline|User:KorneliaStoiber}}
+{{clear}}
 
 == User page ==
-{{clear}}
 {|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
 |<small>'''This is a Wikipedia [[Wikipedia:User_pages|user page]].'''</small>
 |-
