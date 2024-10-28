@@ -36,9 +36,9 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Article&nbsp;count''' || 6+
 |-
-| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 1+
+| style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 3+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,170+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,210+
 |-
 | style="text-align: left; vertical-align: top;" | '''Wikipedian'''
 || {{Age in years, months and days|year=2024|month=10|day=5}}
@@ -63,7 +63,7 @@
 |language=en
 |url-status=live}}</ref>
 
-'''Books:''' This user is currently looking forward to the publication of the book [[Patriot (book)|"Patriot: A Memoir"]] by [[Alexei Navalny]].
+'''Books:''' This user is currently reading the book [[Patriot (book)|"Patriot: A Memoir"]] by [[Alexei Navalny]].
 
 '''Videos:''' This user's favourite video is currently [https://youtube.com/watch?v=7aa_ik_UYTw "The 100,000 Qubit Quantum-Centric Supercomputer of 2033"] by [[IBM Research]].
 
@@ -78,26 +78,6 @@ This user has created the [[Wikipedia]] drafts
 [[Draft:Organic Batteries]] and 
 [[Draft:Stalking Safety]].
 
-== Social media ==
-[https://www.beacons.ai/kornelia.stoiber Homepage]&nbsp;•
-[https://www.facebook.com/kornelia.stoiber Facebook]&nbsp;•
-[https://www.x.com/KorneliaStoiber X.com]&nbsp;•
-[https://www.mastodon.social/@kornelia_stoiber Mastodon]&nbsp;•
-[https://www.instagram.com/kornelia.stoiber Instagram]&nbsp;•
-[https://www.youtube.com/@kornelia.stoiber YouTube]&nbsp;•
-[https://www.pinterest.com/kornelia_stoiber Pinterest]&nbsp;•
-[https://www.soundcloud.com/kornelia_stoiber SoundCloud]&nbsp;•
-[https://www.behance.net/kornelia_stoiber Behance]&nbsp;•
-[https://www.dribbble.com/kornelia_stoiber Dribbble]&nbsp;•
-[https://www.deviantart.com/KorneliaStoiber DeviantArt]&nbsp;•
-[https://www.flickr.com/photos/kornelia_stoiber Flickr]&nbsp;•
-[https://www.500px.com/p/kornelia_stoiber 500px]&nbsp;•
-[https://www.calameo.com/read/007135556b63298c9c71c Calaméo]&nbsp;•
-[https://www.medium.com/@kornelia.stoiber Medium]&nbsp;•
-[https://www.medium.com/@kornelia.stoiber.stalked Stalked]&nbsp;•
-[https://www.github.com/kornelia-stoiber GitHub]&nbsp;•
-[https://www.linkedin.com/in/kornelia-stoiber LinkedIn]
-
 == References ==
 {{Reflist}}
 
@@ -109,7 +89,6 @@ This user has created the [[Wikipedia]] drafts
 {{commons|User:KorneliaStoiber}}
 *{{Wikiquote-inline|User:KorneliaStoiber}}
 *{{Commons-inline|User:KorneliaStoiber}}
-{{clear}}
 
 == User page ==
 {|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
