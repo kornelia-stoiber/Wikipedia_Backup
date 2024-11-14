@@ -159,6 +159,12 @@
 |access-date=2024-10-11
 |website=Guardian News & Media Limited
 |language=en
+}}</ref> <ref>{{Cite web
+|title=Zur Psychologie des Stalking
+|url=https://praeventionstag.de/dokumentation/download.cms?id=94
+|access-date=2024-11-14
+|website=Internetdokumentation Deutscher Präventionstag
+|language=de
 }}</ref><ref>{{Cite web
 |title= Stalking Prevention, Awareness, & Resource Center (SPARC) Website
 |url=https://stalkingawareness.org
