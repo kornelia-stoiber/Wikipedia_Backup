@@ -38,13 +38,13 @@
 |-
 | style="text-align: left; vertical-align: top;" | '''Quote&nbsp;count''' || 3+
 |-
-| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,210+
+| style="text-align: left; vertical-align: top;" | '''Edit&nbsp;count''' || 1,215+
 |-
 | style="text-align: left; vertical-align: top;" | '''Wikipedian'''
 || {{Age in years, months and days|year=2024|month=10|day=5}}
 |-
 | style="text-align: left; vertical-align: top;" | '''User&nbsp;rights''' 
-|| [[Wikipedia:AUTOCONFIRMED|autoconfirmed]] <small>[[https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small>
+|| [[Wikipedia:AUTOCONFIRMED|autoconfirmed]] <small>[[https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small><br>[[Wikipedia:EXTENDEDCONFIRMED|extendedconfirmed]] <small>[[https://en.wikipedia.org/w/index.php?title=Special:UserRights&user=KorneliaStoiber verify]]</small>
 |-
 | style="text-align: center; vertical-align: center;" colspan=2| '''Contact details'''
 |-
