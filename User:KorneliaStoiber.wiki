@@ -83,12 +83,14 @@ This user has created the [[Wikipedia]] drafts
 
 == Backups ==
 [[Backups]] of the pages created with this [[Wikipedia]] account can be found in the [[Github]] repository [https://github.com/kornelia-stoiber/Wikipedia_Backup kornelia-stoiber/Wikipedia_Backup].
+{{clear}}
 
 == External links ==
 {{wikiquote|User:KorneliaStoiber}}
 {{commons|User:KorneliaStoiber}}
 *{{Wikiquote-inline|User:KorneliaStoiber}}
 *{{Commons-inline|User:KorneliaStoiber}}
+{{clear}}
 
 == User page ==
 {|style="margin-bottom: 0.5em; border: #A3A7B0 solid 1px; background: #F9F9F9; text-align: center"
